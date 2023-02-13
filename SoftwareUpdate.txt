@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
