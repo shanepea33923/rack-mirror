@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Use pathlib in DOTA ops (#7552)
