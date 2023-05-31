@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Compare plt.get_backend() in lowercase (#8409)
