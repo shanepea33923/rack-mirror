@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Resize angle, count, and stage on keypoint number change (#7598)
