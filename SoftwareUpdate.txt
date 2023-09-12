@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+New test for labels and crops (#8861)
