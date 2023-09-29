@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Expand Model method type hinting (#8279)
