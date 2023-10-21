@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Add docstrings to new HUB functions (#7576)
