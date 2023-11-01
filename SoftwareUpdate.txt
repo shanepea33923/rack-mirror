@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Capitalize OBB acronym (#7383)
