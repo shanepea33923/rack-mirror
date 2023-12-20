@@ -1,1 +1,1 @@
-fix predict with class filter
+Update docs building code (#7601)
