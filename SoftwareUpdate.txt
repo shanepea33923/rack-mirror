@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
