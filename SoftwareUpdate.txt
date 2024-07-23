@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
