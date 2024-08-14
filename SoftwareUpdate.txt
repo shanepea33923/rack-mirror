@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
