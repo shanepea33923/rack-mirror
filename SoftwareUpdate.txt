@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
